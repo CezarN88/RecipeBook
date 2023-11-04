@@ -4,52 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c71c4e3d-b65a-475c-9fab-e832ff3e8e7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41e413e4dfa40e877bab6d64ff58bdd22e15937b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42bd0f1e7baf2d0ea0fc669a3b739ab5aee60279" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/634149d3f809dac6dddabf0e87f092ad676cc126" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f55419f471324980947d41a8210a7077a93e35c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85834eb5e2749b43348075cd9de79089fdce0e9c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a1b4e9e978470872c50b0986651730b493d4f86" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d04dea035bbc7a4696e599cdb9bea165867ce843" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de61317aa8ccf39500cc09415d7ffa56f779a646" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/eed80b3416f9dc46af49e54b207e3c73c7f50985" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/1/41e413e4dfa40e877bab6d64ff58bdd22e15937b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/2/42bd0f1e7baf2d0ea0fc669a3b739ab5aee60279" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/3/634149d3f809dac6dddabf0e87f092ad676cc126" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/f/6f55419f471324980947d41a8210a7077a93e35c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/5/85834eb5e2749b43348075cd9de79089fdce0e9c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/a/8a1b4e9e978470872c50b0986651730b493d4f86" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/0/d04dea035bbc7a4696e599cdb9bea165867ce843" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/e/de61317aa8ccf39500cc09415d7ffa56f779a646" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/e/eed80b3416f9dc46af49e54b207e3c73c7f50985" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/java/com/recipebook/recipebook/RecipebookApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/java/com/recipebook/recipebook/controllers/RecipeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/java/com/recipebook/recipebook/models/Recipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/java/com/recipebook/recipebook/services/RecipeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/resources/static/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/resources/templates/add_recipe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/resources/templates/browse_recipes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/main/resources/templates/homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recipebook/src/test/java/com/recipebook/recipebook/RecipebookApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="c71c4e3d-b65a-475c-9fab-e832ff3e8e7a" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +65,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "last_opened_file_path": "C:/Users/hp/Downloads/recipebook",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -131,6 +87,15 @@
       <option name="presentableId" value="Default" />
       <updated>1699105635301</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1699129401870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699129401870</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,5 +108,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
 </project>
